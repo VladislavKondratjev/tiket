@@ -4,9 +4,9 @@ import SubmitForm from "../SubmitForm/SubmitForm";
 function App() {
   return (
     <div className="page">
-      <section className="card-list" />
+      {/* <section className="card-list" /> */}
       <Dialog />
-      <section className="form-section" />
+      {/* <section className="form-section" /> */}
       <SubmitForm />
     </div>
   );

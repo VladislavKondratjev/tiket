@@ -6,6 +6,14 @@ export default function Dialog() {
       <section className="card-list">
       <Card />
       <DefaultCard />
+      <Card />
+      <DefaultCard />
+      <Card />
+      <DefaultCard />
+      <Card />
+      <DefaultCard />
+      <Card />
+      <DefaultCard />
       </section>
   );
 }

@@ -1,5 +1,5 @@
 import "../App/App.css";
-
+// import { messageList } from "../../utils/constants";
 export default function Card() {
   return (
       <div className="card-template card-template_type_user">

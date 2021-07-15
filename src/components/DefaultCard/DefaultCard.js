@@ -1,4 +1,5 @@
 import "../App/App.css";
+// import { messageList } from "../../utils/constants";
 
 export default function DefaultCard() {
   return (
